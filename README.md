@@ -15,6 +15,7 @@ I work where protocol research, Solidity development and security review meet, w
 
 ## Selected work
 
+- **[web3-research](https://github.com/michmich5637/web3-research)**: research notes and smart contract security reviews, with a published severity methodology and report template.
 - **[challenge-scroll](https://github.com/michmich5637/challenge-scroll)**: ERC-20 token built on OpenZeppelin Contracts v5, written for a Scroll challenge, with a documented security review of its own design.
 - **[tokenswapsimple.sol](https://github.com/michmich5637/tokenswapsimple.sol)**: minimal Uniswap V3 single-hop swap wrapper, with notes on its limitations and how to harden it.
 
